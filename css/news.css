@@ -3,6 +3,7 @@
   position: relative;
   width: 100%;
   height: 75px;
+  margin-bottom: 50px;
   font-family: Raleway;
   font-size: 38px;
   text-align: center;
@@ -13,13 +14,22 @@
 }
 
 .contents{
-  position: relative;
+  position:relative;
+  background: lightblue;
+  border-radius: 40px;
   font-family: Lato;
   font-size: 24px;
   font-style: italic;
-  text-align: justify;
-  padding: 2%;
+  text-align: center;
+  padding: 1%;
+  margin: 1%;
   color: gray;
+}
+
+.head{
+  font-family: Lato;
+  color:darkslategray;
+  font-size: 30px;
 }
 
 .end{
