@@ -30,12 +30,13 @@ body{
 }
 .heading{
     margin-left: 6%;
-
+    
     font-family: Lato;
     font-style: normal;
     font-weight: 800;
     font-size: 40px;
     line-height: 58px;
+    padding-top: 15px;
  
 
     color: #000000;
@@ -47,12 +48,12 @@ body{
     left: 6%;
     top: 100px;
 
-    font-family: Roboto;
+    font-family: Lato;
     font-style: normal;
-    font-weight: bold;
-    font-size: 25px;
+    font-weight: normal;
+    font-size: 22px;
 
-   text-align: center;
+    text-align: center;
     color: aliceblue;
 
     background: #002648;
@@ -83,7 +84,7 @@ body{
     font-family: Raleway;
     font-style: normal;
     font-weight: 900;
-    font-size: 48px;
+    font-size: 42px;
     line-height: 56px;
     color: white;
     background: #3AA3B1;
