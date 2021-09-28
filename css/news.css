@@ -39,6 +39,10 @@
   color: gray;
 }
 
+a:link {
+  text-decoration: none;
+}
+
 .head{
   font-family: Lato;
   color:darkslategray;
