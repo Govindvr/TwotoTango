@@ -34,6 +34,11 @@
   color: gray;
 }
 
+.back{
+  color: white;
+  height: 30px;
+}
+
 .end{
   position: relative;
   margin-left: 50%;
